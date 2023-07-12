@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /leave-application-form
+
+
+Sitemap: https://cynosuredesigns.co.uk/sitemap.xml

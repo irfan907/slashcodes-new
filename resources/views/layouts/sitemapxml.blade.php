@@ -1,0 +1,192 @@
+<?php echo '<?xml version="1.0" encoding="UTF-8"?>'; ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://cynosuredesigns.co.uk/</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/webstories</loc>
+  <lastmod>2022-08-12T10:27:21+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/webstories/what-are-the-7-types-of-digital-marketing</loc>
+  <lastmod>2022-08-12T10:27:21+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/webstories/what-metaverse-is</loc>
+  <lastmod>2022-08-12T10:27:21+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/webstories/website-redesign-2022</loc>
+  <lastmod>2022-08-18T10:27:21+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/about-us</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/industries</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/careers</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/contact-us</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/digital-marketing</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/marketing-strategy</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/branding</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/ui-ux-designs</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/printing-packaging-solution</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/web-development</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/web-development/magento</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/software-development</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/digital-marketing/seo</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/digital-marketing/smm</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/services/digital-marketing/ppc</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies/vieu</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies/the-ratchet-shop</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies/scholars-school-system</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies/ozone</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudies/synopsis-crm</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/sitemap</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/privacy</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/terms</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://cynosuredesigns.co.uk/casestudy/vieu.pdf</loc>
+  <lastmod>2021-11-12T09:47:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+<url>
+  <loc>https://cynosuredesigns.co.uk/our-work</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+    @foreach ($projects as $project)
+    <url>
+        <loc>https://cynosuredesigns.co.uk/our-work/{{ $project->slug }}</loc>
+        <lastmod>{{ $project->created_at->tz('UTC')->toAtomString() }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    @endforeach
+<url>
+  <loc>https://cynosuredesigns.co.uk/blog</loc>
+  <lastmod>2021-11-12T10:27:21+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+
+    @foreach ($blogs as $blog)
+    <url>
+        <loc>https://cynosuredesigns.co.uk/blog/{{ $blog->slug }}</loc>
+        <lastmod>{{ $blog->created_at->tz('UTC')->toAtomString() }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    @endforeach
+    
+
+</urlset>
